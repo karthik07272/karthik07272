@@ -25,6 +25,15 @@
 
 
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/@karthikhb11" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="@karthikhb11" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/karthik-h-b-768960189" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="karthik-h-b-768960189" height="30" width="40" /></a>
+<a href="https://fb.com/karthikkumar.kumar.75054" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="karthikkumar.kumar.75054" height="30" width="40" /></a>
+<a href="https://instagram.com/karthik_kumar___" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="karthik_kumar___" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/krhb0727" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="krhb0727" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/@karthik07272" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg" alt="@karthik07272" height="30" width="40" /></a>
+</p>
 
 
 

@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning ...Java
 - 👯 I’m looking to collaborate on ...Python web-Development
 - 💬 Ask me about ...python
-- 📫 How to reach me: ..krhb0727@gmail.com
+- 📫 How to reach me: ..portfolio.
 - 😄 Pronouns: ...He/His
 -->
 

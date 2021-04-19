@@ -5,8 +5,7 @@
 - 🌱 I’m currently learning ...Java
 - 👯 I’m looking to collaborate on ...Python web-Development
 - 💬 Ask me about ...python
-- 📫 How to reach me: [Portfolio]
-https://karthik07272.github.io
+- 📫 How to reach me: [Portfolio] (https://karthik07272.github.io)
 - 😄 Pronouns: ...He/His
 -->
 

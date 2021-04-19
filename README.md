@@ -1,4 +1,4 @@
-### Helo I'm Karthik H B! 👋
+### Hi There Here Is What I'am working On! 👋
 
 
 - 🔭 I’m currently working on ...Bootstrap,Web-Development
@@ -7,12 +7,11 @@
 - 💬 Ask me about ...python
 - 📫 How to reach me: ..krhb0727@gmail.com
 - 😄 Pronouns: ...He/His
-- ⚡ Fun fact: ...When I know someone is telling lie and am act like I don't know...😄
 -->
 
 
 
-<h1 align="center">Hi 👋, I'm karthik07272</h1>
+<h1 align="center">Hi 👋, I'm Karthik H B</h1>
 <h3 align="center">A passionate frontend developer, backend developer.</h3>
 
 

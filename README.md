@@ -7,8 +7,8 @@
 - 💬 Ask me about ...python
 - 📫 How to reach me:...[Portfolio](https://karthik07272.github.io)
 - 😄 Pronouns: ...He/His
-- ⚡ Fun fact: I asked my mom to keep a pet dog and she said one is enough..😜
--->
+- ⚡ Fun fact: I asked my mom to keep a pet dog and she said one is enough..😍
+
 
 
 

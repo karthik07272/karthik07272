@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on ...Bootstrap,Web-Development
-- 🌱 I’m currently learning ...Java
+- 🌱 I’m currently learning ...FastApis
 - 👯 I’m looking to collaborate on ...Python web-Development
 - 💬 Ask me about ...python
 - 📫 How to reach me:...[Portfolio](https://karthik07272.github.io)
